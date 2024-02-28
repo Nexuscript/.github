@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-This Originasation is for Novanex
+This organization is for NextByte.
